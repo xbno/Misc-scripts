@@ -11,3 +11,6 @@
 - Hue
   - Hue is a few functions I wrote based on the phue module.
   - Goal: to modify my Philips hue to change color according to the outside temperature using a weather API
+- Hour mtcars
+  - Our dsi instructor was once asked at an interview to 'do something cool with mtcars' as the guy looked over his shoulders. heres my attempt
+  - If I had another hour I'd bootstrap it and keep track of the confusion matrix of correct/incorrect guesses, curious between log, knn and random forrest
