@@ -16,4 +16,4 @@ To use the HTML version type:
   - http://0.0.0.0/api/v1.0/skus/forecasts/table?cat=cat1
   - Update a forecast by modifying a value in an editable cell and then press 'Update Values'
 
-![alt text](http://table.png)
+![](table.png)
