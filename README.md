@@ -14,9 +14,3 @@
 - Hour mtcars
   - Our dsi instructor was once asked at an interview to 'do something cool with mtcars' as the guy looked over his shoulders. heres my attempt
   - If I had another hour I'd bootstrap it and keep track of the confusion matrix of correct/incorrect guesses, curious between log, knn and random forrest
-- Flask API
-  - An API I made during the interview process for a company.
-  - GET requests to pull forecast and product data
-    - Filters based on sku(s), wk_range(s), product category(s)
-  - POST requests to update underlying forecast data
-    - HTML table/form GUI to update future forecast values
